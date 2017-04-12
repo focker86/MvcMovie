@@ -1,0 +1,152 @@
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\ApplicationInsights.config
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\roslyn\csc.exe
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\roslyn\csc.exe.config
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\roslyn\csc.rsp
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\roslyn\csi.exe
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\roslyn\csi.rsp
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\roslyn\System.AppContext.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\roslyn\vbc.exe
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\roslyn\vbc.exe.config
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\roslyn\vbc.rsp
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\roslyn\VBCSCompiler.exe
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\MvcMovie.dll.config
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\MvcMovie.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\MvcMovie.pdb
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\Antlr3.Runtime.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\Microsoft.AI.Web.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\Microsoft.ApplicationInsights.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\Newtonsoft.Json.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\System.Web.Helpers.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\System.Web.Mvc.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\System.Web.Optimization.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\System.Web.Razor.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\System.Web.WebPages.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\System.Web.WebPages.Razor.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\WebGrease.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\System.Web.Helpers.xml
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\System.Web.Mvc.xml
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\System.Web.Optimization.xml
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\System.Web.Razor.xml
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\System.Web.WebPages.xml
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\System.Web.WebPages.Razor.xml
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\Antlr3.Runtime.pdb
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\Newtonsoft.Json.xml
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\Microsoft.ApplicationInsights.xml
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\Microsoft.AI.Web.xml
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\ko\System.Web.Helpers.resources.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\ko\System.Web.Mvc.resources.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\ko\System.Web.Optimization.resources.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\ko\System.Web.Razor.resources.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\ko\System.Web.WebPages.resources.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\ko\System.Web.WebPages.Deployment.resources.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\ko\System.Web.WebPages.Razor.resources.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csprojResolveAssemblyReference.cache
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.dll
+C:\Users\JungUk\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.pdb
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\ApplicationInsights.config
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\roslyn\csc.exe
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\roslyn\csc.exe.config
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\roslyn\csc.rsp
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\roslyn\csi.exe
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\roslyn\csi.rsp
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\roslyn\System.AppContext.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\roslyn\System.Collections.Immutable.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\roslyn\System.IO.FileSystem.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\roslyn\System.Reflection.Metadata.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\roslyn\vbc.exe
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\roslyn\vbc.exe.config
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\roslyn\vbc.rsp
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\roslyn\VBCSCompiler.exe
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\roslyn\VBCSCompiler.exe.config
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\MvcMovie.dll.config
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\MvcMovie.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\MvcMovie.pdb
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\Antlr3.Runtime.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\Microsoft.AI.Agent.Intercept.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\Microsoft.AI.DependencyCollector.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\Microsoft.AI.Web.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\Microsoft.AI.WindowsServer.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\Microsoft.ApplicationInsights.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\Microsoft.Web.Infrastructure.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\Newtonsoft.Json.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\System.Web.Helpers.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\System.Web.Mvc.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\System.Web.Optimization.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\System.Web.Razor.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\System.Web.WebPages.Deployment.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\System.Web.WebPages.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\System.Web.WebPages.Razor.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\WebGrease.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\System.Web.Helpers.xml
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\System.Web.Mvc.xml
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\System.Web.Optimization.xml
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\System.Web.Razor.xml
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\System.Web.WebPages.xml
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\System.Web.WebPages.Deployment.xml
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\System.Web.WebPages.Razor.xml
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\Antlr3.Runtime.pdb
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\Newtonsoft.Json.xml
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\Microsoft.ApplicationInsights.xml
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\Microsoft.AI.DependencyCollector.xml
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\Microsoft.AI.WindowsServer.xml
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\Microsoft.AI.Web.xml
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\ko\System.Web.Helpers.resources.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\ko\System.Web.Mvc.resources.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\ko\System.Web.Optimization.resources.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\ko\System.Web.Razor.resources.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\ko\System.Web.WebPages.resources.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\ko\System.Web.WebPages.Deployment.resources.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\ko\System.Web.WebPages.Razor.resources.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csprojResolveAssemblyReference.cache
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\obj\Debug\MvcMovie.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\obj\Debug\MvcMovie.pdb
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\EntityFramework.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\EntityFramework.SqlServer.dll
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\EntityFramework.xml
+D:\★★★WorkSpace\VS2017\MvcMovie\MvcMovie\bin\EntityFramework.SqlServer.xml
